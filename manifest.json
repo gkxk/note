@@ -1,0 +1,15 @@
+{
+  "short_name": "note",
+  "name": "note",
+  "icons": [
+    {
+      "src": "logo.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#000000"
+}
